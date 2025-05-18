@@ -16,7 +16,6 @@
     font-weight: 700;
     font-size: 35px;
     line-height: 58px;
-    letter-spacing: 0%;
     text-align: center;
     text-transform: capitalize;
 }
@@ -35,7 +34,6 @@ section h3 {
     font-weight: 800;
     font-size: 20px;
     line-height: 100%;
-    letter-spacing: 0%;
     text-transform: uppercase;
     color: rgba(27, 27, 27, 1);
     text-align: center;
@@ -58,7 +56,6 @@ section div p {
     font-weight: 400;
     font-size: 18px;
     line-height: 22px;
-    letter-spacing: 0%;
     color: rgba(62, 62, 62, 1);
 
 }
@@ -79,7 +76,6 @@ section div div p {
     font-weight: 800;
     font-size: 20px;
     line-height: 100%;
-    letter-spacing: 0%;
     text-align: center !important;
     text-transform: uppercase;
     margin-bottom: 1rem;
@@ -95,7 +91,6 @@ section div div p {
     font-weight: 800;
     font-size: 30px;
     line-height: 100%;
-    letter-spacing: 0%;
     text-align: center;
     text-transform: uppercase;
 }
@@ -105,7 +100,6 @@ section div div p {
     font-weight: 800;
     font-size: 30px;
     line-height: 100%;
-    letter-spacing: 0%;
     text-align: center;
     text-transform: uppercase;
     color: rgba(255, 0, 0, 1);
@@ -117,7 +111,6 @@ section div div p {
     font-weight: 800;
     font-size: 50px;
     line-height: 100%;
-    letter-spacing: 0%;
     text-transform: uppercase;
     margin: 1rem 0;
     text-align: center;
@@ -152,7 +145,6 @@ section div div p {
 font-weight: 400;
 font-size: 14px;
 line-height: 178%;
-letter-spacing: 0%;
 color: rgba(62, 62, 62, 1);
 }
 .guarantee img{

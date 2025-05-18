@@ -43,10 +43,7 @@ nav p {
     font-weight: 800;
     font-size: 24px;
     line-height: 100%;
-    letter-spacing: 0%;
     color: rgba(27, 27, 27, 1);
-
-
 }
 
 .header-content {
@@ -57,12 +54,10 @@ nav p {
     font-family: Poppins;
     font-weight: 500;
     font-size: 16px;
-    line-height: 100%;
     letter-spacing: 0%;
     text-align: center;
     text-transform: capitalize;
     color: rgba(255, 0, 0, 1);
-
 
 }
 
@@ -71,7 +66,6 @@ nav p {
     font-weight: 800;
     font-size: 3.95rem;
     line-height: 100%;
-    letter-spacing: 0%;
     text-align: center;
     text-transform: uppercase;
     color: rgba(255, 255, 255, 1);
@@ -86,7 +80,6 @@ nav p {
     font-weight: 400;
     font-size: 18px;
     line-height: 28px;
-    letter-spacing: 0%;
     text-align: center;
     color: rgba(226, 226, 226, 1);
     padding: 0 15%;
