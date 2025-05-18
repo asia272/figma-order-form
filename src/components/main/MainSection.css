@@ -1,0 +1,25 @@
+main{
+    /* background-color: antiquewhite; */
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    padding: 2% 8%;
+    width: 100%;
+    gap: 3rem;
+}
+.right-side{
+flex: 1;
+}
+.left-side{
+flex: 1;
+}
+@media (max-width:773px) {
+    main{
+        flex-direction: column;
+    }
+    .right-side,.left-side{
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+    }
+}

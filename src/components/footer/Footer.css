@@ -1,0 +1,37 @@
+footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    gap: 1rem;
+    position: relative;
+}
+footer h3{
+    font-family: Poppins;
+font-weight: 800;
+font-size: 24px;
+line-height: 100%;
+letter-spacing: 0%;
+color: rgba(0, 0, 0, 1);
+}
+footer p{
+    font-family: Inter;
+font-weight: 400;
+font-size: 12px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+color: rgba(53, 53, 53, 1);
+}
+footer img{
+    position: absolute;
+    left: -12px;
+    transform: rotate(-2.47deg);
+    transform: translateY(-12px);
+}
+@media (max-width:704px) {
+    footer img{
+        display: none;
+    }
+}
